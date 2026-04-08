@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Modul6_103022400119\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F58F4A92-E7BB-44E6-B0FC-89F1155B1130}|Modul6_103022400119\\Modul6_103022400119.csproj|d:\\modul6_103022400119\\modul6_103022400119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F58F4A92-E7BB-44E6-B0FC-89F1155B1130}|Modul6_103022400119\\Modul6_103022400119.csproj|solutionrelative:modul6_103022400119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{249138E1-E4CC-78BB-C3D9-2BE422DB552D}|Modul6_103022400119\\Modul6_103022400119.csproj|d:\\modul6_103022400119\\modul6_103022400119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249138E1-E4CC-78BB-C3D9-2BE422DB552D}|Modul6_103022400119\\Modul6_103022400119.csproj|solutionrelative:modul6_103022400119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Modul6_103022400119\\Program.cs",
               "ToolTip": "D:\\Modul6_103022400119\\Modul6_103022400119\\Program.cs",
               "RelativeToolTip": "Modul6_103022400119\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwDsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T23:51:51.067Z",
               "EditorCaption": ""
